@@ -38,4 +38,5 @@ Hinweise:
 - Branchen als Checkboxen
 - Buttons „Suchen“ und „Abbrechen“ (bricht laufende Suche ab)
 - DataGrid: Name, Branche, Adresse, Entfernung (km), aufsteigend sortiert
+- Button „Export Excel“: speichert die angezeigten Ergebnisse als .xlsx (Spalten wie im Grid; ohne externe Bibliothek, ZIP+XML in `ExcelExport.cs`)
 - Statuszeile (Anzahl Treffer / Fehlermeldung)
