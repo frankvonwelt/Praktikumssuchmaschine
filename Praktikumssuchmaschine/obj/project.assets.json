@@ -1,0 +1,72 @@
+{
+  "version": 4,
+  "targets": {
+    "net481": {},
+    "net481/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net481": []
+  },
+  "packageFolders": {
+    "C:\\Users\\fbeltzner\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Checkout\\GitHub\\frankvonwelt\\Praktikumssuchmaschine\\Praktikumssuchmaschine\\Praktikumssuchmaschine.csproj",
+      "projectName": "Praktikumssuchmaschine",
+      "projectPath": "C:\\Checkout\\GitHub\\frankvonwelt\\Praktikumssuchmaschine\\Praktikumssuchmaschine\\Praktikumssuchmaschine.csproj",
+      "packagesPath": "C:\\Users\\fbeltzner\\.nuget\\packages\\",
+      "outputPath": "C:\\Checkout\\GitHub\\frankvonwelt\\Praktikumssuchmaschine\\Praktikumssuchmaschine\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\fbeltzner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net481"
+      ],
+      "sources": {
+        "C:\\Checkout\\TFS\\IPTE - TS1\\Ipte_Nuget_Repo_2.0": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net481": {
+          "framework": "net481",
+          "targetAlias": "net481",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.400"
+    },
+    "frameworks": {
+      "net481": {
+        "framework": "net481",
+        "targetAlias": "net481",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
